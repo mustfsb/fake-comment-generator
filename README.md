@@ -1,6 +1,5 @@
-# fake-comment-generator
+# Fake Comment Generator
 Fake comment generator with OpenAI API 
-
 
 ` Sanctions will be applied to those who use API keys within the project. `
 
