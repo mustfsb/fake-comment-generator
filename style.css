@@ -5,9 +5,11 @@
 }
 
 input {
+    margin-top: 5px;
     padding: 6px;
     border-radius: 10px;
     border: 2px solid black;
+    width: 200px;
 }
 
 .container {
@@ -23,6 +25,7 @@ select:focus {
 }
 
 select {
+    margin-top: 5px;
     padding: 6px;
     border: 2px solid black;
     width: 100px;
@@ -30,6 +33,7 @@ select {
 }
 
 button {
+    margin-top: 5px;
     border: 2px solid black;
     border-radius: 10px;
     padding: 6px;
